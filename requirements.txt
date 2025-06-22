@@ -1,7 +1,6 @@
-streamlit
-langchain-ibm
 langchain
+langchain-ibm
+ibm-watsonx-ai
+ibm_watson_machine_learning
 fpdf
-ibm-watson-machine-learning
-pandas
-plotly
+requests
